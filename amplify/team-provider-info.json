@@ -15,11 +15,11 @@
       "api": {
         "amplifyapp": {}
       },
-      "auth": {
-        "amplifyappbdaed3e7": {}
-      },
       "storage": {
         "imagestorage": {}
+      },
+      "auth": {
+        "amplifyapp291dfd48": {}
       }
     }
   }
